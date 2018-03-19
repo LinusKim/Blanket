@@ -3,7 +3,7 @@
 
 ## ATDD 개요
 
-![https://api.monosnap.com/rpc/file/download?id=oTQD4t1MIjUpvl64XlH4BwM37FHCFy]
+[https://api.monosnap.com/rpc/file/download?id=oTQD4t1MIjUpvl64XlH4BwM37FHCFy]()
 
 ### Levels of Tests
 - Acceptance: Does the whole system work?
