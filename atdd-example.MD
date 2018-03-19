@@ -3,7 +3,7 @@
 
 ## ATDD 개요
 
-[![return false](https://api.monosnap.com/rpc/file/download?id=oTQD4t1MIjUpvl64XlH4BwM37FHCFy)](#)
+[![javascript:return false](https://api.monosnap.com/rpc/file/download?id=oTQD4t1MIjUpvl64XlH4BwM37FHCFy)](#)
 <img src="https://api.monosnap.com/rpc/file/download?id=oTQD4t1MIjUpvl64XlH4BwM37FHCFy">
 
 ### Levels of Tests
